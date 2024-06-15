@@ -6,7 +6,7 @@ export default function Preview() {
 		<article className={styles.preview}>
 			<div className={styles.image}>
 				<div className={styles.inner}>
-					<img src={meetingImg} alt='People at a meeting' />
+					<img src={meetingImg} alt="People at a meeting" />
 				</div>
 			</div>
 			<div className={styles.content}>
